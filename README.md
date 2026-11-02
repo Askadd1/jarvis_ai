@@ -19,7 +19,7 @@ A Python-powered assistant with a live dashboard, voice controls, browser automa
 | **DASHBOARD** | Use the graphical interface or type commands |
 | **BROWSER** | Open and close managed Google, YouTube, and GitHub windows |
 | **MUSIC** | Launch YouTube searches for tracks in your library |
-| **NEWS** | Fetch top US headlines with NewsAPI |
+| **NEWS** | Fetch top headlines with NewsAPI |
 | **UTILITY** | Ask for the time, date, or help |
 
 ## ⌘ Quick start
